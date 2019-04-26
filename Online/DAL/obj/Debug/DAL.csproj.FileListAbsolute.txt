@@ -1,0 +1,35 @@
+E:\下\ASP\Online\DAL\bin\Debug\DAL.dll
+E:\下\ASP\Online\DAL\bin\Debug\DAL.pdb
+E:\下\ASP\Online\DAL\bin\Debug\Model.dll
+E:\下\ASP\Online\DAL\bin\Debug\Model.pdb
+E:\下\ASP\Online\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\下\ASP\Online\DAL\obj\Debug\DAL.dll
+E:\下\ASP\Online\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\DAL\obj\Debug\DAL.pdb
+C:\Users\sx305\Desktop\Online\DAL\bin\Debug\DAL.dll
+C:\Users\sx305\Desktop\Online\DAL\bin\Debug\DAL.pdb
+C:\Users\sx305\Desktop\Online\DAL\bin\Debug\Model.dll
+C:\Users\sx305\Desktop\Online\DAL\bin\Debug\Model.pdb
+C:\Users\sx305\Desktop\Online\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\sx305\Desktop\Online\DAL\obj\Debug\DAL.dll
+C:\Users\sx305\Desktop\Online\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\新建文件夹\Online\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\新建文件夹\Online\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹\Online\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\Online\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Online\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Online\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Online\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\Online\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\Online\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Online\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Online\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,432 @@
+C:\Users\Administrator\Desktop\Online\Online\bin\Online.dll.config
+C:\Users\Administrator\Desktop\Online\Online\bin\Online.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\Online.pdb
+C:\Users\Administrator\Desktop\Online\Online\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\Owin.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\System.Web.Providers.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\Online\Online\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\Online\Online\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrator\Desktop\Online\Online\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\Online\Online\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\Desktop\Online\Online\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\Desktop\Online\Online\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\zh-Hans\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\zh-Hans\System.Web.Providers.resources.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Administrator\Desktop\Online\Online\obj\Debug\Online.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Online\Online\obj\Debug\Online.dll
+C:\Users\Administrator\Desktop\Online\Online\obj\Debug\Online.pdb
+E:\下\ASP\Online\Online\obj\Debug\Online.csprojResolveAssemblyReference.cache
+E:\下\ASP\Online\Online\obj\Debug\Online.dll
+E:\下\ASP\Online\Online\bin\Online.dll.config
+E:\下\ASP\Online\Online\bin\Online.dll
+E:\下\ASP\Online\Online\bin\Online.pdb
+E:\下\ASP\Online\Online\bin\Antlr3.Runtime.dll
+E:\下\ASP\Online\Online\bin\AspNet.ScriptManager.bootstrap.dll
+E:\下\ASP\Online\Online\bin\AspNet.ScriptManager.jQuery.dll
+E:\下\ASP\Online\Online\bin\BLL.dll
+E:\下\ASP\Online\Online\bin\EntityFramework.dll
+E:\下\ASP\Online\Online\bin\EntityFramework.SqlServer.dll
+E:\下\ASP\Online\Online\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\下\ASP\Online\Online\bin\Microsoft.AspNet.Identity.Core.dll
+E:\下\ASP\Online\Online\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\下\ASP\Online\Online\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\下\ASP\Online\Online\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\下\ASP\Online\Online\bin\Microsoft.Owin.dll
+E:\下\ASP\Online\Online\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\下\ASP\Online\Online\bin\Microsoft.Owin.Security.Cookies.dll
+E:\下\ASP\Online\Online\bin\Microsoft.Owin.Security.dll
+E:\下\ASP\Online\Online\bin\Microsoft.Owin.Security.Facebook.dll
+E:\下\ASP\Online\Online\bin\Microsoft.Owin.Security.Google.dll
+E:\下\ASP\Online\Online\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\下\ASP\Online\Online\bin\Microsoft.Owin.Security.OAuth.dll
+E:\下\ASP\Online\Online\bin\Microsoft.Owin.Security.Twitter.dll
+E:\下\ASP\Online\Online\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\下\ASP\Online\Online\bin\Microsoft.ScriptManager.WebForms.dll
+E:\下\ASP\Online\Online\bin\Microsoft.Web.Infrastructure.dll
+E:\下\ASP\Online\Online\bin\Model.dll
+E:\下\ASP\Online\Online\bin\Newtonsoft.Json.dll
+E:\下\ASP\Online\Online\bin\Owin.dll
+E:\下\ASP\Online\Online\bin\System.Web.Optimization.dll
+E:\下\ASP\Online\Online\bin\System.Web.Providers.dll
+E:\下\ASP\Online\Online\bin\WebGrease.dll
+E:\下\ASP\Online\Online\bin\DAL.dll
+E:\下\ASP\Online\Online\bin\BLL.pdb
+E:\下\ASP\Online\Online\bin\Model.pdb
+E:\下\ASP\Online\Online\bin\System.Web.Optimization.xml
+E:\下\ASP\Online\Online\bin\Antlr3.Runtime.pdb
+E:\下\ASP\Online\Online\bin\Newtonsoft.Json.xml
+E:\下\ASP\Online\Online\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\下\ASP\Online\Online\bin\EntityFramework.xml
+E:\下\ASP\Online\Online\bin\EntityFramework.SqlServer.xml
+E:\下\ASP\Online\Online\bin\Microsoft.AspNet.Identity.Core.xml
+E:\下\ASP\Online\Online\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\下\ASP\Online\Online\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\下\ASP\Online\Online\bin\Microsoft.Owin.xml
+E:\下\ASP\Online\Online\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\下\ASP\Online\Online\bin\Microsoft.Owin.Security.xml
+E:\下\ASP\Online\Online\bin\Microsoft.Owin.Security.Facebook.xml
+E:\下\ASP\Online\Online\bin\Microsoft.Owin.Security.Cookies.xml
+E:\下\ASP\Online\Online\bin\Microsoft.Owin.Security.Google.xml
+E:\下\ASP\Online\Online\bin\Microsoft.Owin.Security.Twitter.xml
+E:\下\ASP\Online\Online\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\下\ASP\Online\Online\bin\Microsoft.Owin.Security.OAuth.xml
+E:\下\ASP\Online\Online\bin\DAL.pdb
+E:\下\ASP\Online\Online\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\下\ASP\Online\Online\bin\zh-Hans\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\下\ASP\Online\Online\bin\zh-Hans\EntityFramework.resources.dll
+E:\下\ASP\Online\Online\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\下\ASP\Online\Online\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\下\ASP\Online\Online\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\下\ASP\Online\Online\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\下\ASP\Online\Online\bin\zh-Hans\System.Web.Providers.resources.dll
+E:\下\ASP\Online\Online\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\下\ASP\Online\Online\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\下\ASP\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\下\ASP\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\下\ASP\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\下\ASP\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\下\ASP\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\下\ASP\Online\Online\obj\Debug\Online.pdb
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\obj\Debug\Online.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\obj\Debug\Online.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\obj\Debug\Online.pdb
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\obj\Debug\Online.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\obj\Debug\Online.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\obj\Debug\Online.pdb
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Online.dll.config
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Online.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Online.pdb
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\BLL.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\EntityFramework.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Model.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Owin.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\System.Web.Providers.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\WebGrease.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\DAL.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\BLL.pdb
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Model.pdb
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\EntityFramework.xml
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\DAL.pdb
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\zh-Hans\System.Web.Providers.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\sx305\Desktop\Online\Online\obj\Debug\Online.csprojResolveAssemblyReference.cache
+C:\Users\sx305\Desktop\Online\Online\obj\Debug\Online.dll
+C:\Users\sx305\Desktop\Online\Online\obj\Debug\Online.pdb
+C:\Users\sx305\Desktop\Online\Online\bin\Online.dll.config
+C:\Users\sx305\Desktop\Online\Online\bin\Online.dll
+C:\Users\sx305\Desktop\Online\Online\bin\Online.pdb
+C:\Users\sx305\Desktop\Online\Online\bin\Antlr3.Runtime.dll
+C:\Users\sx305\Desktop\Online\Online\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\sx305\Desktop\Online\Online\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\sx305\Desktop\Online\Online\bin\BLL.dll
+C:\Users\sx305\Desktop\Online\Online\bin\EntityFramework.dll
+C:\Users\sx305\Desktop\Online\Online\bin\EntityFramework.SqlServer.dll
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.Owin.dll
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.Owin.Security.dll
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sx305\Desktop\Online\Online\bin\Model.dll
+C:\Users\sx305\Desktop\Online\Online\bin\Newtonsoft.Json.dll
+C:\Users\sx305\Desktop\Online\Online\bin\Owin.dll
+C:\Users\sx305\Desktop\Online\Online\bin\System.Web.Optimization.dll
+C:\Users\sx305\Desktop\Online\Online\bin\System.Web.Providers.dll
+C:\Users\sx305\Desktop\Online\Online\bin\WebGrease.dll
+C:\Users\sx305\Desktop\Online\Online\bin\DAL.dll
+C:\Users\sx305\Desktop\Online\Online\bin\BLL.pdb
+C:\Users\sx305\Desktop\Online\Online\bin\Model.pdb
+C:\Users\sx305\Desktop\Online\Online\bin\System.Web.Optimization.xml
+C:\Users\sx305\Desktop\Online\Online\bin\Antlr3.Runtime.pdb
+C:\Users\sx305\Desktop\Online\Online\bin\Newtonsoft.Json.xml
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\sx305\Desktop\Online\Online\bin\EntityFramework.xml
+C:\Users\sx305\Desktop\Online\Online\bin\EntityFramework.SqlServer.xml
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.Owin.xml
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.Owin.Security.xml
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sx305\Desktop\Online\Online\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sx305\Desktop\Online\Online\bin\DAL.pdb
+C:\Users\sx305\Desktop\Online\Online\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\sx305\Desktop\Online\Online\bin\zh-Hans\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\sx305\Desktop\Online\Online\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\sx305\Desktop\Online\Online\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\sx305\Desktop\Online\Online\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\sx305\Desktop\Online\Online\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\sx305\Desktop\Online\Online\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\sx305\Desktop\Online\Online\bin\zh-Hans\System.Web.Providers.resources.dll
+C:\Users\sx305\Desktop\Online\Online\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\sx305\Desktop\Online\Online\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\sx305\Desktop\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\sx305\Desktop\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\sx305\Desktop\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\sx305\Desktop\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\sx305\Desktop\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\BLL.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\Model.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\DAL.dll
+C:\Users\Administrator\Desktop\Online\Online\bin\BLL.pdb
+C:\Users\Administrator\Desktop\Online\Online\bin\Model.pdb
+C:\Users\Administrator\Desktop\Online\Online\bin\DAL.pdb
+D:\Online\Online\obj\Debug\Online.csprojResolveAssemblyReference.cache
+D:\Online\Online\obj\Debug\Online.dll
+D:\Online\Online\obj\Debug\Online.pdb
+D:\Online\Online\bin\Online.dll.config
+D:\Online\Online\bin\Online.dll
+D:\Online\Online\bin\Online.pdb
+D:\Online\Online\bin\Antlr3.Runtime.dll
+D:\Online\Online\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Online\Online\bin\AspNet.ScriptManager.jQuery.dll
+D:\Online\Online\bin\BLL.dll
+D:\Online\Online\bin\EntityFramework.dll
+D:\Online\Online\bin\EntityFramework.SqlServer.dll
+D:\Online\Online\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Online\Online\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Online\Online\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Online\Online\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Online\Online\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Online\Online\bin\Microsoft.Owin.dll
+D:\Online\Online\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Online\Online\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Online\Online\bin\Microsoft.Owin.Security.dll
+D:\Online\Online\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Online\Online\bin\Microsoft.Owin.Security.Google.dll
+D:\Online\Online\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Online\Online\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Online\Online\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Online\Online\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Online\Online\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Online\Online\bin\Microsoft.Web.Infrastructure.dll
+D:\Online\Online\bin\Model.dll
+D:\Online\Online\bin\Newtonsoft.Json.dll
+D:\Online\Online\bin\Owin.dll
+D:\Online\Online\bin\System.Web.Optimization.dll
+D:\Online\Online\bin\System.Web.Providers.dll
+D:\Online\Online\bin\WebGrease.dll
+D:\Online\Online\bin\DAL.dll
+D:\Online\Online\bin\BLL.pdb
+D:\Online\Online\bin\Model.pdb
+D:\Online\Online\bin\System.Web.Optimization.xml
+D:\Online\Online\bin\Antlr3.Runtime.pdb
+D:\Online\Online\bin\Newtonsoft.Json.xml
+D:\Online\Online\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Online\Online\bin\EntityFramework.xml
+D:\Online\Online\bin\EntityFramework.SqlServer.xml
+D:\Online\Online\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Online\Online\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Online\Online\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Online\Online\bin\Microsoft.Owin.xml
+D:\Online\Online\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Online\Online\bin\Microsoft.Owin.Security.xml
+D:\Online\Online\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Online\Online\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Online\Online\bin\Microsoft.Owin.Security.Google.xml
+D:\Online\Online\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Online\Online\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Online\Online\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Online\Online\bin\DAL.pdb
+D:\Online\Online\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\Online\Online\bin\zh-Hans\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Online\Online\bin\zh-Hans\EntityFramework.resources.dll
+D:\Online\Online\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\Online\Online\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Online\Online\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Online\Online\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Online\Online\bin\zh-Hans\System.Web.Providers.resources.dll
+D:\Online\Online\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\Online\Online\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Online.dll.config
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Online.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Online.pdb
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\BLL.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Model.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Owin.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\System.Web.Providers.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\DAL.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\BLL.pdb
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\DAL.pdb
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\zh-Hans\System.Web.Providers.resources.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\Online\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll

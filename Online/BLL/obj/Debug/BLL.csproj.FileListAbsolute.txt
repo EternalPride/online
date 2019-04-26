@@ -1,0 +1,45 @@
+E:\下\ASP\Online\BLL\bin\Debug\BLL.dll
+E:\下\ASP\Online\BLL\bin\Debug\BLL.pdb
+E:\下\ASP\Online\BLL\bin\Debug\DAL.dll
+E:\下\ASP\Online\BLL\bin\Debug\Model.dll
+E:\下\ASP\Online\BLL\bin\Debug\DAL.pdb
+E:\下\ASP\Online\BLL\bin\Debug\Model.pdb
+E:\下\ASP\Online\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\下\ASP\Online\BLL\obj\Debug\BLL.dll
+E:\下\ASP\Online\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Documents\Tencent Files\1776767093\FileRecv\新建文件夹\Online\BLL\obj\Debug\BLL.pdb
+C:\Users\sx305\Desktop\Online\BLL\bin\Debug\BLL.dll
+C:\Users\sx305\Desktop\Online\BLL\bin\Debug\BLL.pdb
+C:\Users\sx305\Desktop\Online\BLL\bin\Debug\DAL.dll
+C:\Users\sx305\Desktop\Online\BLL\bin\Debug\Model.dll
+C:\Users\sx305\Desktop\Online\BLL\bin\Debug\DAL.pdb
+C:\Users\sx305\Desktop\Online\BLL\bin\Debug\Model.pdb
+C:\Users\sx305\Desktop\Online\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\sx305\Desktop\Online\BLL\obj\Debug\BLL.dll
+C:\Users\sx305\Desktop\Online\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\新建文件夹\Online\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\新建文件夹\Online\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\新建文件夹\Online\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹\Online\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\Online\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\新建文件夹\Online\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\Online\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\Online\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\Online\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Online\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\Online\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Online\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\Online\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Online\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\Online\BLL\obj\Debug\BLL.pdb
